@@ -1,0 +1,69 @@
+h2{
+	text-align: center;
+}
+
+body {
+	background-color: white;
+}
+
+form{
+	background-color: white;
+}
+
+.well{
+	margin-top: 20px;
+}
+
+#smallWell{
+	background-color: #EEEEEE;
+}
+
+#bigWell{
+	padding-bottom: 40px;
+	background-color: ##DDDDDD;
+}
+
+.btn-danger{
+	float: right;
+	margin-left: 20px;
+}
+
+.btn-success{
+	float: right;
+}
+
+.lead{
+	float: right;
+}
+img{
+	margin-bottom: 20px;
+	margin-top: 20px;
+}
+
+ol{
+	list-style: none;
+	padding-left: 0px;
+}
+
+#stars{
+	padding-bottom: 10px;
+	color: gold;
+}
+
+#divStar{
+	margin-bottom: 0px;
+	padding-bottom: 0px;
+	color: gold;
+}
+
+#avgRating{
+	color: gold;
+}
+
+#totalRev{
+	color: black;
+}
+
+h3{
+	margin-top: 5px;
+}
